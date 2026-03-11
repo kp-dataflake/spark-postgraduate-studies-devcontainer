@@ -46,6 +46,10 @@ services:
 
   jupyter:
     image: jupyter/pyspark-notebook
+    command: >
+      start-notebook.py
+      --IdentityProvider.token=''
+      --PasswordIdentityProvider.hashed_password=''
     container_name: jupyter
     hostname: jupyter
     depends_on:
