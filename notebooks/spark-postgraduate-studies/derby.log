@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Fri Mar 20 17:23:44 UTC 2026:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019d-0c46-4458-000002d8b6c0 
+Fri Mar 20 17:36:41 UTC 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019d-0c52-1e6f-000001a551f0 
 on database directory /home/jovyan/work/spark-postgraduate-studies/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5bc2b487 
 Loaded from file:/opt/spark/jars/derby-10.14.2.0.jar
 java.vendor=Eclipse Adoptium
