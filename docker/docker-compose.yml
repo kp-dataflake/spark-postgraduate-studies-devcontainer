@@ -70,7 +70,6 @@ services:
     volumes:
       - ../notebooks:/home/jovyan/work
       - ../warehouse:/opt/spark/warehouse
-      # - ../data:/opt/spark/warehouse
     environment:
       SPARK_MASTER: spark://spark-master:7077
       PYSPARK_SUBMIT_ARGS: "--master spark://spark-master:7077 --conf spark.driver.host=jupyter pyspark-shell"
