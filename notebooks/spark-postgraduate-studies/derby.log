@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 20 17:23:44 UTC 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019d-0c46-4458-000002d8b6c0 
+on database directory /home/jovyan/work/spark-postgraduate-studies/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5bc2b487 
+Loaded from file:/opt/spark/jars/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.18+8
+user.dir=/home/jovyan/work/spark-postgraduate-studies
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-1044-azure
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
