@@ -154,3 +154,8 @@ Initial job has not accepted any resources
 ```
 
 To avoid this, stop the notebook kernel before running `spark-submit`, or increase capacity by editing `SPARK_WORKER_CORES` and `SPARK_WORKER_MEMORY` in `docker/docker-compose.yml`.
+
+# TODOs
+
+1. Pin minio image
+
